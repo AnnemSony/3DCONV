@@ -47,7 +47,4 @@ This repository contains a Jupyter Notebook that provides a step-by-step guide t
 
 This repository serves as a comprehensive introduction to training 3D convolutional models on medical imaging data. By the end of this tutorial, you will have a solid understanding of the entire pipeline, from data preprocessing to model evaluation, enabling you to apply these techniques to your own projects.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
